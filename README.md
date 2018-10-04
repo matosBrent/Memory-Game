@@ -2,6 +2,9 @@
 <h1 align="center"> Memory Game  🎮 </h1>
 <p align="center">
   <img href="https://github.com/prithaupadhyay/Memory-Game/blob/master/LICENSE" src="https://img.shields.io/github/license/mashape/apistatus.svg" align="center">
+</p>
+<hr>
+<p align="center"> 
   Memory game with a Geeky :nerd_face: touch.
   Check the live version <a href="https://prithaupadhyay.github.io/Memory-Game/">here</a>
 </p>
